@@ -1,0 +1,19 @@
+.card {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.containerCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: #0c0c0d !important;
+  color: aliceblue;
+}
+
+.modal {
+  color: black;
+}
